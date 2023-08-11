@@ -1,7 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsreeshilck&psig=AOvVaw3nkoWHD8rfO1OXEk7vUFZe&ust=1691856827007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjth_r_1IADFQAAAAAdAAAAABAZ))](https://hirushan2001.io)
 <h1 align="center">Hi 👋, I'm Dhanajana hirushan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirushan2001&label=Profile%20views&color=0e75b6&style=flat" alt="hirushan2001" /> </p>
 
