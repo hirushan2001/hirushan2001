@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/hirushan2001" target="blank"><img src="https://img.shields.io/twitter/follow/hirushan2001?logo=twitter&style=for-the-badge" alt="hirushan2001" /></a> </p>
 
-- 🌱 I’m currently learning **java , visual studio ,node js**
+- 🌱 I’m currently learning **React , React Native ,node js**
 
-- 💬 Ask me about **c , html , css**
+- 💬 Ask me about **C, HTML, CSS, JAVA, JS**
 
 - 📫 How to reach me **dhphirushan@gmail.com**
 
