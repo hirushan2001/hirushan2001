@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer;Mobile+Developer;UI%2FUX+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <div style="display: flex; align-items: flex-start; padding: 20px;">
   <div style="flex: 1; padding-right: 20px;">
     <h2>🧑‍💻 About Me</h2>
     <p style="line-height: 1.5;">
-      🌟 Passionate frontend developer from the beautiful island of Sri Lanka 🏝️<br>
+      🌟 Passionate Web and Mobile developer from the beautiful island of Sri Lanka 🏝️<br>
       🌱 Currently exploring the realms of <b>React</b>, <b>React Native</b>, and <b>Node.js</b><br>
       💡 Always eager to learn and take on new challenges in the world of web development<br>
       🎨 Combining creativity with code to build stunning user interfaces<br>
-      💬 Ask me about <b>C, HTML, CSS, JAVA, JS</b><br>
+      💬 Ask me about <b>C, HTML, CSS, JAVA, JS, React, React Native, Node.js</b><br>
       📫 Reach me at <b>dhphirushan@gmail.com</b>
     </p>
   </div>
