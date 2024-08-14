@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirushan2001&" alt="hirushan2001" /></p>
 
-![snake gif](https://github.com/hirushan2001/hirushan2001/blob/output/github-contribution-grid-snake.svg)
