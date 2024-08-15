@@ -19,7 +19,7 @@
         <li>📫 Reach me at <b>dhphirushan@gmail.com</b></li>
       </ul>
     </td>
-     <td width="40%" align="center">
+     <td width="30%" align="center">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="250">
     </td>
   </tr>
