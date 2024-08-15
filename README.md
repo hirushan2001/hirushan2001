@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%">
       <h2>🧑‍💻 About Me</h2>
       <ul>
         <li>🌟 Passionate Web and Mobile developer from Sri Lanka 🏝️</li>
