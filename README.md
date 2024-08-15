@@ -24,9 +24,9 @@
     </td>
   </tr>
 </table>
-
+<br>
 <h2 align="center">🛠️ Tech Stack</h2>
-
+<br>
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -37,17 +37,17 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
 </p>
-
+<br>
 <h2 align="center">📊 GitHub Stats</h2>
-
+<br>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirushan2001&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=hirushan2001&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirushan2001&theme=radical" alt="GitHub Streak" />
 </div>
-
+<br>
 <h2 align="center">🤝 Let's Connect!</h2>
-
+<br>
 <p align="center">
   <a href="https://twitter.com/hirushan2001" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://fb.com/hirusan2001" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
