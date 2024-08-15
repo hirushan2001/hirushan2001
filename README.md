@@ -11,9 +11,9 @@
     <td width="60%">
       <h2>🧑‍💻 About Me</h2>
       <ul>
-        <li>🌟 Passionate Web and Mobile developer from the beautiful island of Sri Lanka 🏝️</li>
+        <li>🌟 Passionate Web and Mobile developer from Sri Lanka 🏝️</li>
         <li>🌱 Currently exploring the realms of <b>React</b>, <b>React Native</b>, and <b>Node.js</b></li>
-        <li>💡 Always eager to learn and take on new challenges in the world of web development</li>
+        <li>💡 Always eager to learn and embrace new challenges in web development.</li>
         <li>🎨 Combining creativity with code to build stunning user interfaces</li>
         <li>💬 Ask me about <b>C, HTML, CSS, JAVA, JS, React, React Native, Node.js</b></li>
         <li>📫 Reach me at <b>dhphirushan@gmail.com</b></li>
