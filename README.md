@@ -15,6 +15,7 @@
         <li>🎨 Combining creativity with code to build stunning user interfaces</li>
         <li>💬 Ask me about <b>C, HTML, CSS, JAVA, JS, React, React Native, Node.js</b></li>
         <li>📫 Reach me at <b>dhphirushan@gmail.com</b></li>
+        <br>
       </ul>
     </td>
      <td width="30%" align="center">
