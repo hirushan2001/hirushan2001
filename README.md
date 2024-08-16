@@ -1,6 +1,7 @@
 <h1 align="center">
   Welcome to Dhanajana Hirushan's Coding Universe! 🚀
 </h1>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhananjana+Hirushan!;" />
 </h1>
@@ -9,17 +10,15 @@
     <td width="70%">
       <h2>🧑‍💻 About Me</h2>
       <ul>
-        <li>🌟 Passionate Web and Mobile developer from Sri Lanka 🏝️</li>
-        <li>🌱 Currently exploring the realms of <b>React</b>, <b>React Native</b>, and <b>Node.js</b></li>
-        <li>💡 Always eager to learn and embrace new challenges in web development.</li>
-        <li>🎨 Combining creativity with code to build stunning user interfaces</li>
-        <li>💬 Ask me about <b>C, HTML, CSS, JAVA, JS, React, React Native, Node.js</b></li>
-        <li>📫 Reach me at <b>dhphirushan@gmail.com</b></li>
-        <br>
+        <li>🌟 Passionate Web and Mobile developer 🏝️</li><br>
+        <li>🌱 Currently exploring the realms of <b>MERN</b></li><br>
+        <li>🧑‍🎓 I’m an Undergraduate at the University of Moratuwa</li><br>
+        <li>💬 Ask me about <b>JAVA</b></li><br>
+        <li>📫 Reach me at <b>dhphirushan@gmail.com</b></li><br>
       </ul>
     </td>
      <td width="30%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="250">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
     </td>
   </tr>
 </table>
